@@ -1,3 +1,3 @@
 # Front-end-work
 
-To see these look, open see_here.png files. 
+To see how these look, open see_here.png files. 
